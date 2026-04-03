@@ -52,7 +52,7 @@ Please refer to [instructions.md](./dev/instructions.md) file for detailed instr
 
 ## Results
 
-After training the model for 5800 steps on TPUv5p-16[^1], here are some samples of the generated text from the pretrained model.
+After training the model for 5800 steps[^1], here are some samples of the generated text from the pretrained model.
 
 ```text
 Prompt:
